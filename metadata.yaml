@@ -1,0 +1,26 @@
+_repo: Cathay_50155
+creator:
+  authors:
+  - agent_name: Pound, Ezra
+    aliases:
+    - Atheling, William
+    - Pound, Ezra Loomis
+    birthdate: 1885
+    deathdate: 1972
+    gutenberg_agent_id: '2637'
+    url: http://www.gutenberg.org/2009/agents/2637
+    wikipedia: http://en.wikipedia.org/wiki/Ezra_Pound
+  - agent_name: Rihaku
+    gutenberg_agent_id: '45728'
+    url: http://www.gutenberg.org/2009/agents/45728
+description: ''
+gutenberg_issued: '2015-10-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '50155'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+title: Cathay
+url: http://www.gutenberg.org/ebooks/50155
