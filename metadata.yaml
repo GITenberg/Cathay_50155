@@ -1,4 +1,8 @@
 _repo: Cathay_50155
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 50155-h/images/cover.jpg
 creator:
   authors:
   - agent_name: Pound, Ezra
@@ -14,6 +18,8 @@ creator:
     gutenberg_agent_id: '45728'
     url: http://www.gutenberg.org/2009/agents/45728
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/50155#Cathay
 gutenberg_issued: '2015-10-08'
 gutenberg_type: Text
 identifiers:
